@@ -1,6 +1,6 @@
 import json
 import time
-from whatsapp_server import WhatsappServer
+from make_server_whatsapp import WhatsappServer
 
 api_key = "" #Aqui vai a chave de API
 host = f"http://localhost:3000"
